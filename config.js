@@ -35,13 +35,13 @@ module.exports = {
     /**
      * thumbnails and medias
      */
-    image_1: readFileSync('./lib/Assets/image_1.jpg'), // primary image
-    image_2: readFileSync('./lib/Assets/image_2.jpg'), // secondry image
+    image_1: "https://telegra.ph/file/24d982891899cfe9bd41a.jpg"// primary image
+    image_2: "https://telegra.ph/file/24d982891899cfe9bd41a.jpg" // secondry image
     imageUrl: "https://telegra.ph/file/c28268e126572fa70c1b1.jpg", // image url, to replace to your url upload your image to https://imgbb.com
     imageMentionUrl: "https://telegra.ph/file/24d982891899cfe9bd41a.jpg", // image for mention reply audio media
-    aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
-    menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
-    ownerMentionMp3: readFileSync('./lib/Assets/ownerMentionMp3.mp3'),  // audio for mention reply audio media
+    aliveMedia: "https://envs.sh/WfE.me.mp4"
+    menuMedia: "https://telegra.ph/file/6f507524d8f4f6f66867c.mp4"
+    ownerMentionMp3: "https://telegra.ph/file/f3d15634b671416a68cef.mp3",  // audio for mention reply audio media
 
     /**
      * core parameters and values
